@@ -3,7 +3,6 @@ import Grid from '@mui/material/Grid';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import Link from '@mui/material/Link';
-import Google from '@mui/icons-material/Google';
 import { Link as RouterLink } from 'react-router-dom';
 import AuthLayout from '../layout/AuthLayout';
 
